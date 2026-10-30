@@ -1,6 +1,7 @@
-# GLEMATES
-
-**We build useful software, and we leave the hype out of it.**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
+  <img alt="GLEMATES. We build useful software, and we leave the hype out of it." src="./assets/banner-light.svg">
+</picture>
 
 GLEMATES is a technology company from Indonesia. We take real, everyday problems and turn them into simple products people actually use.
 
