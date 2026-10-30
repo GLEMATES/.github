@@ -3,26 +3,22 @@
   <img alt="GLEMATES. We build useful software, and we leave the hype out of it." src="./assets/banner-light.svg">
 </picture>
 
-GLEMATES is a technology company from Indonesia. We take real, everyday problems and turn them into simple products people actually use.
+GLEMATES is a multi-product startup from Indonesia. We find real problems through our own research, build products to solve them, and run those products ourselves.
 
-No buzzwords. No bloated features. Just software that works.
+We don't do client work. Every app we ship is ours: we own it, grow it, and keep making it better for the people who use it.
 
-### What we believe
+### How we work
 
-- **Start with the problem.** People first, technology second.
-- **Keep it simple.** Fewer features, done well.
+- **Research first.** We validate the problem and the market before we write a line of code.
+- **Build our own.** One team, many products, all fully owned by GLEMATES.
 - **Ship, then improve.** Launch early, listen closely, keep getting better.
-- **Build to last.** We make products meant to still be running years from now.
+- **Build to last.** Sustainable products, funded by the users who love them.
 
-### What we build
-
-Mobile apps, web platforms, and cloud services, from the first idea to launch and beyond.
-
-### Our work
+### Our products
 
 - **GLIMO**: vehicle tracking and smart service reminders.
 - More on the way.
 
-### Let's talk
+### Get in touch
 
-Got a problem worth solving? Reach us at **dhanidzulkarnain1@gmail.com**
+For partnerships, investment, or joining the team: **dhanidzulkarnain1@gmail.com**
