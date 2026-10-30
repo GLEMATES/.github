@@ -3,7 +3,7 @@
   <img alt="GLEMATES. We build useful software, and we leave the hype out of it." src="./assets/banner-light.svg">
 </picture>
 
-GLEMATES is a multi-product startup from Indonesia. We find real problems through our own research, build products to solve them, and run those products ourselves.
+GLEMATES is a multi-product startup. We find real problems through our own research, build products to solve them, and run those products ourselves.
 
 We don't do client work. Every app we ship is ours: we own it, grow it, and keep making it better for the people who use it.
 
